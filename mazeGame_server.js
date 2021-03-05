@@ -19,7 +19,7 @@ let socket = require("socket.io");
 let app = express();
 let server = app.listen(3000);
 
-app.use(express.static('public/maze_game'));
+app.use(express.static('.'));
 
 console.log("My socket server is running")
 
