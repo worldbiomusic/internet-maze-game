@@ -30,6 +30,7 @@
 
 # Bug
 - Game may roll back when two or more players send events at the same moment. It's quite serious. (***I want to fix it...***)
+- Poor exception handling
 
 # Contact
 - Discord: [LINK](https://discord.gg/fJbxSy2EjA)
