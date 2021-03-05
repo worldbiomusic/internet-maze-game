@@ -1,5 +1,12 @@
 # Image
+- joinGame
+![joinGame](https://github.com/worldbiomusic/internet-maze-game/blob/main/imgs/joinGame.PNG)
 
+- gamePlay
+![gamePlay](https://github.com/worldbiomusic/internet-maze-game/blob/main/imgs/gamePlay.PNG)
+
+- cmd
+![cmd](https://github.com/worldbiomusic/internet-maze-game/blob/main/imgs/cmd.PNG)
 
 # Internet Maze Game
 - Internet version of my [single play version](https://github.com/worldbiomusic/multiplay-maze-game)
@@ -13,7 +20,7 @@
 5. Let other players know your server ip to join your maze game server
 6. Enjoy
 
-※press `Ctrl + C` to stop the server (window cmd)
+※press `Ctrl + C` to stop the server
 
 # How to join the game server
 1. enter server ip in broswer
